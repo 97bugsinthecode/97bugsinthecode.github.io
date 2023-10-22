@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "97 Bugs In The Code",
+    "description": "",
+    "home_page_url": "https://97bugsinthecode.github.io",
+    "feed_url": "https://97bugsinthecode.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "97bugsinthecode"
+    },
+    "items": [
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://97bugsinthecode.github.io/sitemap.xml
