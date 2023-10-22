@@ -3,10 +3,52 @@
     <title>97 Bugs In The Code</title>
     <link href="https://97bugsinthecode.github.io/feed.xml" rel="self" />
     <link href="https://97bugsinthecode.github.io" />
-    <updated>1970-01-01T03:00:00+03:00</updated>
+    <updated>2023-10-22T14:42:08+03:00</updated>
     <author>
         <name>97bugsinthecode</name>
     </author>
     <id>https://97bugsinthecode.github.io</id>
 
+    <entry>
+        <title>Hello, world!</title>
+        <author>
+            <name>97bugsinthecode</name>
+        </author>
+        <link href="https://97bugsinthecode.github.io/hello-world.html"/>
+        <id>https://97bugsinthecode.github.io/hello-world.html</id>
+
+        <updated>2023-10-22T14:42:08+03:00</updated>
+            <summary>
+                <![CDATA[
+                    <figure class="post__image"><img loading="lazy"  src="https://97bugsinthecode.github.io/media/posts/1/pexels-tim-gouw-52608.jpg" alt="" width="1919" height="1283" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-xs.jpg 300w ,https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-sm.jpg 480w ,https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-md.jpg 768w ,https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-lg.jpg 1024w"></figure>
+<p>Хелло</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://97bugsinthecode.github.io/media/posts/1/pexels-tim-gouw-52608.jpg" alt="" width="1919" height="1283" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-xs.jpg 300w ,https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-sm.jpg 480w ,https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-md.jpg 768w ,https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-lg.jpg 1024w"></figure>
+<p>Хелло</p>
+
+<p>Чому ти не працюєш!</p>
+<pre class="language-python line-numbers"><code>for i in range(10):
+    print(i)</code></pre>
+<hr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.2843%;">1</td>
+<td style="width: 33.2843%;">2</td>
+<td style="width: 33.2889%;">3</td>
+</tr>
+<tr>
+<td style="width: 33.2843%;">4</td>
+<td style="width: 33.2843%;">5</td>
+<td style="width: 33.2889%;">6</td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
 </feed>
