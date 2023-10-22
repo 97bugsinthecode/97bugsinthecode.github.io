@@ -13,15 +13,14 @@
             "id": "https://97bugsinthecode.github.io/hello-world.html",
             "url": "https://97bugsinthecode.github.io/hello-world.html",
             "title": "Hello, world!",
-            "summary": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://97bugsinthecode.github.io/media/posts/1/pexels-tim-gouw-52608.jpg\" alt=\"\" width=\"1919\" height=\"1283\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-xs.jpg 300w ,https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-sm.jpg 480w ,https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-md.jpg 768w ,https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-lg.jpg 1024w\"></figure>\n<p>Хелло</p>\n",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://97bugsinthecode.github.io/media/posts/1/pexels-tim-gouw-52608.jpg\" alt=\"\" width=\"1919\" height=\"1283\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-xs.jpg 300w ,https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-sm.jpg 480w ,https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-md.jpg 768w ,https://97bugsinthecode.github.io/media/posts/1/responsive/pexels-tim-gouw-52608-lg.jpg 1024w\"></figure>\n<p>Хелло</p>\n\n<p>Чому ти не працюєш!</p>\n<pre class=\"language-python line-numbers\"><code>for i in range(10):\n    print(i)</code></pre>\n<hr>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 33.2843%;\">1</td>\n<td style=\"width: 33.2843%;\">2</td>\n<td style=\"width: 33.2889%;\">3</td>\n</tr>\n<tr>\n<td style=\"width: 33.2843%;\">4</td>\n<td style=\"width: 33.2843%;\">5</td>\n<td style=\"width: 33.2889%;\">6</td>\n</tr>\n</tbody>\n</table>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://github.com/97bugsinthecode/97bugsinthecodecdn/blob/main/img/python_variables.jpg?raw=true\" alt=\"\" width=\"1920\" height=\"1080\" data-is-external-image=\"true\"></figure>",
             "author": {
                 "name": "97bugsinthecode"
             },
             "tags": [
             ],
             "date_published": "2023-10-22T14:24:47+03:00",
-            "date_modified": "2023-10-22T14:42:08+03:00"
+            "date_modified": "2023-10-22T15:28:53+03:00"
         }
     ]
 }
