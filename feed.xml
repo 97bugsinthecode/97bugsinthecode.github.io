@@ -3,12 +3,86 @@
     <title>97 Bugs In The Code</title>
     <link href="https://97bugsinthecode.github.io/feed.xml" rel="self" />
     <link href="https://97bugsinthecode.github.io" />
-    <updated>2023-10-22T19:06:33+03:00</updated>
+    <updated>2023-10-28T14:54:10+03:00</updated>
     <author>
         <name>97bugsinthecode</name>
     </author>
     <id>https://97bugsinthecode.github.io</id>
 
+    <entry>
+        <title>тест</title>
+        <author>
+            <name>97bugsinthecode</name>
+        </author>
+        <link href="https://97bugsinthecode.github.io/test.html"/>
+        <id>https://97bugsinthecode.github.io/test.html</id>
+
+        <updated>2023-10-22T19:24:54+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Тип Тип	назва типу (клас) Приклад Ціле число int 0, 999, -100500, 15 Дробове число float 3.14, -22.99, 15.0, 0.001 Комплексне число complex 10.5j, 12.0j, -9.-9.99j, 0.-1j Булевий (логічний) bool True, False Рядковий (текст) str “Іван”, “3.14”, “”, “Т. Шевченко”
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <table>
+<thead>
+<tr>
+<th><strong>Тип</strong></th>
+<th><strong>Тип	назва типу (клас)</strong></th>
+<th><strong>Приклад</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Ціле число</td>
+<td>int</td>
+<td>0, 999, -100500, 15</td>
+</tr>
+<tr>
+<td>Дробове число</td>
+<td>float</td>
+<td>3.14, -22.99, 15.0, 0.001</td>
+</tr>
+<tr>
+<td>Комплексне число</td>
+<td>complex</td>
+<td>10.5j, 12.0j, -9.-9.99j, 0.-1j</td>
+</tr>
+<tr>
+<td>Булевий (логічний)</td>
+<td>bool</td>
+<td>True, False</td>
+</tr>
+<tr>
+<td>Рядковий (текст)</td>
+<td>str</td>
+<td>“Іван”, “3.14”, “”, “Т. Шевченко”</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>10 клас. 1. Типи даних у Python</title>
         <author>
@@ -18,7 +92,7 @@
         <id>https://97bugsinthecode.github.io/hello-world.html</id>
         <media:content url="https://97bugsinthecode.github.io/media/posts/1/python_10_datatypes-2.jpg" medium="image" />
 
-        <updated>2023-10-22T19:06:33+03:00</updated>
+        <updated>2023-10-28T14:54:10+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://97bugsinthecode.github.io/media/posts/1/python_10_datatypes-2.jpg" alt="" />
@@ -32,16 +106,15 @@
                 <p>Ця стаття дає початок серії уроків для 10 класу профільної програми з інформатики. У неї ми познайомимося з поняттями даних, типів даних, та розглянемо, які типи даних має мова програмування Python.</p>
 
 <p>Дані у програмуванні - фундаментальне поняття. Люди створюють комп'ютерні програми саме з метою опрацювання даних. З попередніх класів знаєте, що дані в  комп'ютерних системах - це інформація, що подана у вигляді двійкового коду. Таку форму подання інформації вимагає від людини комп'ютер, адже його архітектура дозволяє опрацьовувати лише нулі та одиниці, і саме така форма подання інформації є дуже незручною для розуміння самою людиною: ми звикли до світу, сповненому інформації у вигляді звуків, образів та символів... Окрім того, коли справа доходить до чисел і проведення операцій над ними - людина вже декілька тисячоліть оперує десятковою системою числення, до якої, звісно, дуже звикла.</p>
-<figure class="post__image"><img loading="lazy"  src="https://97bugsinthecode.github.io/media/posts/1/python_10_information.jpg" alt="Інформація" width="1280" height="720" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://97bugsinthecode.github.io/media/posts/1/responsive/python_10_information-xs.jpg 300w ,https://97bugsinthecode.github.io/media/posts/1/responsive/python_10_information-sm.jpg 480w ,https://97bugsinthecode.github.io/media/posts/1/responsive/python_10_information-md.jpg 768w ,https://97bugsinthecode.github.io/media/posts/1/responsive/python_10_information-lg.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://97bugsinthecode.github.io/media/posts/1/python_10_information.jpg" alt="Інформація" width="1280" height="720" sizes="100vw" srcset="https://97bugsinthecode.github.io/media/posts/1/responsive/python_10_information-xs.jpg 300w ,https://97bugsinthecode.github.io/media/posts/1/responsive/python_10_information-sm.jpg 480w ,https://97bugsinthecode.github.io/media/posts/1/responsive/python_10_information-md.jpg 768w ,https://97bugsinthecode.github.io/media/posts/1/responsive/python_10_information-lg.jpg 1024w ,https://97bugsinthecode.github.io/media/posts/1/responsive/python_10_information-xl.jpg 1360w ,https://97bugsinthecode.github.io/media/posts/1/responsive/python_10_information-2xl.jpg 1600w"></figure>
 <p>Комп'ютер - це лише виконавець, який не зрушить з місця, якщо не отримає список інструкцій для виконання. Інструкції, звісно, також повинні бути записані у вигляді, зрозумілому саме комп'ютеру - тобто, у двійковому коді. Виникає конфлікт інтересів: комп'ютер вміє працювати дуже швидко, але для належної роботи у нього занадто специфічні інформаційні вимоги, а людина призвичаїлася до світу, в якому подібних форм інформації ніколи не існувало.</p>
 <p>Тому для ефективной співпраці між людиною та інформаційною системою існують певні домовленності, які дозволяють компю'теру розуміти інформацію зі світу людей та інструкції з її опрацювання за умови, якщо людина буде чітко дотримуватися певних правил написання таких інструкцій та створення інформації. Згідно цих домовленностей, людина змушена дещо відійти від зручних для неї способів роботи з інформацією, і те ж саме змушений зробити комп'ютер - обидві сторони мають зійтися десь посередині.</p>
 <p><strong>Збірник правил написання таких інструкцій</strong> зі сторони людини називають <strong>мовою програмування</strong>, а <strong>форми подання інформації</strong> для її опрацювання комп'ютером - <strong>типами даних</strong>.</p>
 <p>Типи даних у мовах програмування - це зазвичай <strong>числова </strong>або <strong>текстова </strong>інформація. Таку інформацію легко перекласти на двійковий код, і вона також є  цілком зрозумілою для людини. Існують й інші типи, які також дуже добре розуміють обидві сторони.</p>
 <p>Мова програмування Python має наступні <strong>базові типи даних</strong>:</p>
+<pre class="language-python line-numbers"><code>for i in range(10):
+    print(i)</code></pre>
 <p> </p>
-<p>
-<script src="https://gist.github.com/root97dpua/abf57e39283466c66be582d94be31525.js"></script>
-</p>
             ]]>
         </content>
     </entry>
